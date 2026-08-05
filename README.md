@@ -4,7 +4,7 @@
 Focused on security operations — detection engineering, log analysis, and incident response.
 Currently working toward CompTIA Security+.
 
-📍 Denton, TX · 📧 bavadiyaa.neel@gmail.com · 💼 [LinkedIn](https://linkedin.com/neelbavadiya)
+📍 Denton, TX · 📧 bavadiyaa.neel@gmail.com · 💼 [LinkedIn](https://www.linkedin.com/in/neelbavadiya/)
 
 ---
 
